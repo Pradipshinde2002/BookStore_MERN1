@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "A magical story that inspires kids to read every day",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript Basics",
+    "title": "Learn JavaScript fundamentals with easy examples",
+    "price": 199,
+    "category": "Programming",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+  },
+  {
+    "id": 3,
+    "name": "React Guide",
+    "title": "Complete guide to building modern UIs with React",
+    "price": 299,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee"
+  },
+  {
+    "id": 4,
+    "name": "Node.js Handbook",
+    "title": "Backend development using Node.js and Express",
+    "price": 249,
+    "category": "Programming",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+  },
+  {
+    "id": 5,
+    "name": "MongoDB Essentials",
+    "title": "Learn MongoDB for scalable applications",
+    "price": 199,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c"
+  },
+  {
+    "id": 6,
+    "name": "HTML & CSS",
+    "title": "Design beautiful websites using HTML and CSS",
+    "price": 149,
+    "category": "Web Design",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"
+  },
+  {
+    "id": 7,
+    "name": "Free",
+    "title": "Build modern UIs quickly using Tailwind CSS",
+    "price": 179,
+    "category": "Web Design",
+    "image": "https://images.unsplash.com/photo-1555066932-e78dd8fb77bb"
+  },
+  {
+    "id": 8,
+    "name": "Python for Beginners",
+    "title": "Start coding with Python from scratch",
+    "price": 199,
+    "category": "Programming",
+    "image": "https://images.unsplash.com/photo-1526378722484-cc5c510f0c74"
+  },
+  {
+    "id": 9,
+    "name": "Data Structures",
+    "title": "Master data structures and algorithms",
+    "price": 349,
+    "category": "Computer Science",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+  },
+  {
+    "id": 10,
+    "name": "Free",
+    "title": "Concepts of modern operating systems",
+    "price": 299,
+    "category": "Computer Science",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 11,
+    "name": "System Design",
+    "title": "Design scalable and high-performance systems",
+    "price": 399,
+    "category": "Computer Science",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
+  },
+  {
+    "id": 12,
+    "name": "Free",
+    "title": "Write clean, readable, and maintainable code",
+    "price": 299,
+    "category": "Programming",
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353"
+  },
+  {
+    "id": 13,
+    "name": "Git & GitHub",
+    "title": "Version control and collaboration using Git",
+    "price": 99,
+    "category": "Tools",
+    "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb"
+  },
+  {
+    "id": 14,
+    "name": "DevOps Basics",
+    "title": "Introduction to DevOps tools and practices",
+    "price": 249,
+    "category": "DevOps",
+    "image": "https://images.unsplash.com/photo-1537432376769-00aabc8f6f02"
+  },
+  {
+    "id": 15,
+    "name": "Free",
+    "title": "Containerize applications using Docker",
+    "price": 299,
+    "category": "DevOps",
+    "image": "https://images.unsplash.com/photo-1605745341112-85968b19335b"
+  },
+  {
+    "id": 16,
+    "name": "AWS Cloud",
+    "title": "Learn cloud computing with AWS",
+    "price": 499,
+    "category": "Cloud",
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231"
+  },
+  {
+    "id": 17,
+    "name": "Cyber Security",
+    "title": "Basics of cyber security and ethical hacking",
+    "price": 349,
+    "category": "Security",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3"
+  },
+  {
+    "id": 18,
+    "name": "Machine Learning",
+    "title": "Introduction to machine learning concepts",
+    "price": 599,
+    "category": "AI",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  },
+  {
+    "id": 19,
+    "name": "Artificial Intelligence",
+    "title": "Learn AI concepts and real-world use cases",
+    "price": 699,
+    "category": "AI",
+    "image": "https://images.unsplash.com/photo-1581091870627-3c5c6c6f1b1b"
+  },
+  {
+    "id": 20,
+    "name": "Interview Preparation",
+    "title": "Crack tech interviews with confidence",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+  }
+]
